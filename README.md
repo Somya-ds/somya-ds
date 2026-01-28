@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Somya  
 
-<!--
-**Somya-ds/somya-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning:
+- HTML  
+- CSS  
+- JavaScript  
+- Python  
+- C Programming  
 
-Here are some ideas to get you started:
+🎯 Goals:
+- Build strong programming fundamentals  
+- Create beginner-friendly projects  
+- Learn step by step and stay consistent  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 About me:
+- Beginner in programming  
+- Curious learner  
+- Future developer in the making 🚀  
+
+✨ Fun fact:
+Every expert was once a beginner 🙂
+
