@@ -1,31 +1,50 @@
-# Hi 👋 I'm Somya 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Somya-ds&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Somya-ds&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Somya-ds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 👋 Hi, I'm Somya Gupta
+
+🎓 University Student | 💻 Tech Enthusiast | ☁️ Future Cloud Engineer
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Somya-ds&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-🌱 I’m currently learning:
-- HTML  
-- CSS  
-- JavaScript  
-- Python  
-- C Programming  
+## 🌟 About Me
 
-🎯 Goals:
-- Build strong programming fundamentals  
-- Create beginner-friendly projects  
-- Learn step by step and stay consistent  
+* 🎓 Currently pursuing my degree in India
+* 💡 Interested in **Data Science & Cloud Computing**
+* ☁️ Learning **AWS & Cloud Technologies step by step**
+* 📚 Working on improving focus and productivity
+* 🚀 Goal: Become a skilled Cloud Engineer
 
-💡 About me:
-- Beginner in programming  
-- Curious learner  
-- Future developer in the making 🚀  
+---
 
-✨ Fun fact:
-Every expert was once a beginner 🙂
+## 🛠️ Skills & Technologies
 
+### 💻 Programming & Web
+
+* HTML, CSS, JavaScript
+* Basic C Programming
+* R Programming
+
+### ⚙️ Tools
+
+* Git & GitHub
+* VS Code
+
+### ☁️ Currently Learning
+
+* Cloud Computing
+* AWS (Beginner Level)
+
+---
+
+## 📌 Projects
+
+🔹 Web Designing Projects
+🔹 C Programming Projects
+🔹 Academic Assignments
+
+(*More coming soon...*)
+
+---
+
+
+
+
+⭐ *Thanks for visiting my profile!*
