@@ -4,9 +4,9 @@
 ---
 
 ## GitHub Stats
-<p align="center">
+<div align="center">
   ![GitHub Stats](https://streak-stats.demolab.com?user=Somya-ds&theme=dark&hide_border=true)
-</p>
+</div>
 ---
 
 ## 🌟 About Me
