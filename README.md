@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Somya Gupta
 
 🎓 University Student | 💻 Tech Enthusiast | ☁️ Future Cloud Engineer
+![GitHub Stats](https://streak-stats.demolab.com?user=Somya-ds&theme=dark&hide_border=true)
 
 ---
 
