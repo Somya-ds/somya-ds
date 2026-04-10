@@ -1,6 +1,6 @@
 ## <h1 align="center">👋 Hi, I'm Somya Gupta </h1>
 
-🎓 University Student | 💻 Tech Enthusiast | ☁️ Future Cloud Engineer
+<h2 align="center">🎓 Data Science Student | 💻 Tech Enthusiast | ☁️ Future Cloud Engineer</h2>
 ---
 
 ## GitHub Stats
