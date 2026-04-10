@@ -46,6 +46,7 @@
 
 🔹 Web Designing Projects
 🔹 C Programming Projects
+🔹 R Programming Project
 🔹 Academic Assignments
 
 (*More coming soon...*)
