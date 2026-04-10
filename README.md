@@ -2,8 +2,6 @@
 
 <h2 align="center">🎓 Data Science Student | 💻 Tech Enthusiast | ☁️ Future Cloud Engineer</h2>
 
----
-
  ## <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Somya-ds&theme=dark&hide_border=true" />
