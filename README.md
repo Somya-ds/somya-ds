@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Somya Gupta
 
 🎓 University Student | 💻 Tech Enthusiast | ☁️ Future Cloud Engineer
-![GitHub Stats](https://streak-stats.demolab.com?user=Somya-ds&theme=dark&hide_border=true)
+---
 
+## GitHub Stats
+<p align="center">
+  ![GitHub Stats](https://streak-stats.demolab.com?user=Somya-ds&theme=dark&hide_border=true)
+</p>
 ---
 
 ## 🌟 About Me
