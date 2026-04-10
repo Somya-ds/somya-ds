@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Somya Gupta
+<p align="center"># 👋 Hi, I'm Somya Gupta </p>
 
 🎓 University Student | 💻 Tech Enthusiast | ☁️ Future Cloud Engineer
 ---
