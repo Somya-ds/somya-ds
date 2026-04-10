@@ -36,6 +36,10 @@
 * Cloud Computing
 * AWS (Beginner Level)
 
+### Other Skills
+
+* Microsoft Excel, Access & Word
+
 ---
 
 ## 📌 Projects
