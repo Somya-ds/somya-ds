@@ -28,7 +28,7 @@
 
 ### ⚙️ Tools
 
-* Git & GitHub
+* GitHub
 * VS Code
 
 ### ☁️ Currently Learning
